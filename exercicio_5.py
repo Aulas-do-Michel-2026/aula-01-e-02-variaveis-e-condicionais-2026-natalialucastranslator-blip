@@ -50,6 +50,7 @@ Sim
 Digite o cromossomo: chr2
 Digite a posição: 43044299
 Digite o genoma de referência: hg38
+
 cromossomo = input().strip()
 posicao = int(input().strip())
 genoma = input().strip()
