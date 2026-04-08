@@ -1,3 +1,4 @@
+freq_pop = float(input("Digite a frequencia populacional (em porcentagem): "))
 gene = input("Digite o gene: ").upper()
 impacto = input("Digite o Impacto (ALTO ou BAIXO): ").upper()
 reads = int(input("Digite os reads: "))
